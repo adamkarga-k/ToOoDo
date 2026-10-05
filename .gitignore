@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build artifacts
+build/
+dist/
+*.exe
+
+# User personal data & backups (keeps personal notes private)
+tasks.json
+tasks.json.bak
+tasks.json.tmp
+config.json
+.write_test
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
