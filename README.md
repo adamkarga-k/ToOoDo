@@ -1,6 +1,18 @@
 # 🌿 ToOoDo
 
-Windows masaüstüyle tam bütünleşen, göz yormayan doğal kağıt/kırtasiye estetiğine sahip, sevimli pixel art animasyonlu kedi arkadaşı içeren, ultra düşük kaynak (**~18 MB RAM**, **%0.0 CPU**) tüketen yatay yapılacaklar şeridi.
+> Windows masaüstüyle tam bütünleşen, göz yormayan doğal kağıt/kırtasiye estetiğine sahip, sevimli pixel art animasyonlu kedi arkadaşı içeren, ultra hafif (**~18 MB RAM**, **%0.0 CPU**) yatay yapılacaklar şeridi.
+
+---
+
+### ⚡ Hızlı İndir ve Kullan (Kurulum Gerektirmez)
+
+ToOoDo'yu kullanmak için bilgisayarınızda Python veya herhangi bir ek kütüphane olmasına **gerek yoktur**. Hazır derlenmiş `.exe` dosyasını indirip çift tıklayarak saniyeler içinde kullanmaya başlayabilirsiniz:
+
+[![Doğrudan İndir ToOoDo.exe](https://img.shields.io/badge/Hemen%20%C4%B0ndir-ToOoDo.exe%20(G%C3%BCncel%20S%C3%BCr%C3%BCm)-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/adamkarga/ToOoDo/releases/latest/download/ToOoDo.exe)
+
+> 🎯 **Tek Dosya, Sıfır Zahmet:** İndirdiğiniz `ToOoDo.exe` dosyasını Masaüstünüze veya dilediğiniz bir klasöre koyup çalıştırmanız yeterlidir.
+> - Kurulum sihirbazı veya internet bağlantısı gerektirmez.
+> - Alternatif olarak GitHub sayfasının sağ tarafındaki **[Releases (Sürümler)](https://github.com/adamkarga/ToOoDo/releases)** sekmesinden de her zaman en son `ToOoDo.exe` dosyasını edinebilirsiniz.
 
 ---
 
