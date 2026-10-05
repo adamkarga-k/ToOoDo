@@ -49,6 +49,13 @@ Windows masaüstüyle tam bütünleşen, göz yormayan doğal kağıt/kırtasiye
 ## 🚀 Başlatma
 
 - 🌟 **Doğrudan Bağımsız Uygulama Olarak (Tavsiye Edilen):**
-  [**`ToOoDo.exe`**](file:///C:/Users/Ubeydullah/.gemini/antigravity/scratch/taskbar_todo/ToOoDo.exe) dosyasına çift tıklayın! Python veya herhangi bir ek kütüphane kurulumu gerektirmez. İstediğiniz bilgisayara kopyalayıp hemen çalıştırabilirsiniz.
+  **`ToOoDo.exe`** dosyasına çift tıklayın! Python veya herhangi bir ek kütüphane kurulumu gerektirmez. İstediğiniz bilgisayara kopyalayıp hemen çalıştırabilirsiniz.
 - 🐍 **Geliştirici / Python Olarak:**
-  [**`Baslat.bat`**](file:///C:/Users/Ubeydullah/.gemini/antigravity/scratch/taskbar_todo/Baslat.bat) dosyasına çift tıklayabilirsiniz.
+  **`Baslat.bat`** dosyasına çift tıklayabilirsiniz.
+
+---
+
+## 👤 Geliştirici & İletişim
+
+- 🌐 **Kişisel Blog:** [adamkarga.net](http://adamkarga.net/)
+- 🐦 **X (Twitter):** [@adamkarga_](https://x.com/adamkarga_)
