@@ -1,5 +1,9 @@
 # 🌿 ToOoDo
 
+<p align="center">
+  <img src="banner.jpg" alt="ToOoDo Banner" width="100%" />
+</p>
+
 > Windows masaüstüyle tam bütünleşen, göz yormayan doğal kağıt/kırtasiye estetiğine sahip, sevimli pixel art animasyonlu kedi arkadaşı içeren, ultra hafif (**~18 MB RAM**, **%0.0 CPU**) yatay yapılacaklar şeridi.
 
 ---
